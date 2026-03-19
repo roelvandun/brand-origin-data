@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Brand Origin Dataset",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["brand", "hq_country", "hq_country_name", "eu_member"],
+    "additionalProperties": false,
+    "properties": {
+      "brand": {
+        "type": "string",
+        "minLength": 1
+      },
+      "hq_country": {
+        "type": "string",
+        "pattern": "^[A-Z]{2}$"
+      },
+      "hq_country_name": {
+        "type": "string",
+        "minLength": 1
+      },
+      "eu_member": {
+        "type": "boolean"
+      },
+      "source": {
+        "type": "string"
+      },
+      "notes": {
+        "type": "string"
+      }
+    }
+  }
+}

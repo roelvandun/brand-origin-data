@@ -1,0 +1,16 @@
+{
+  "name": "brand-origin-data",
+  "version": "1.0.0",
+  "description": "Community-maintained dataset of fashion brand HQ countries for the Brand Origin Chrome extension",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.js"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "CC0-1.0"
+}

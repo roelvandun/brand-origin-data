@@ -1,0 +1,498 @@
+[
+  {
+    "brand": "adidas",
+    "hq_country": "DE",
+    "hq_country_name": "Germany",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Adidas",
+    "notes": ""
+  },
+  {
+    "brand": "adidas Originals",
+    "hq_country": "DE",
+    "hq_country_name": "Germany",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Adidas",
+    "notes": "Sub-label of adidas AG, headquartered in Herzogenaurach, Germany"
+  },
+  {
+    "brand": "Armani Exchange",
+    "hq_country": "IT",
+    "hq_country_name": "Italy",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Giorgio_Armani",
+    "notes": "Sub-label of Giorgio Armani S.p.A."
+  },
+  {
+    "brand": "BOSS",
+    "hq_country": "DE",
+    "hq_country_name": "Germany",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Hugo_Boss",
+    "notes": "Premium label of Hugo Boss AG, Metzingen, Germany"
+  },
+  {
+    "brand": "Calvin Klein",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Calvin_Klein",
+    "notes": "Owned by PVH Corp., New York, USA"
+  },
+  {
+    "brand": "Carhartt",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Carhartt",
+    "notes": "Dearborn, Michigan, USA"
+  },
+  {
+    "brand": "Champion",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Champion_(clothing)",
+    "notes": "Winston-Salem, North Carolina, USA"
+  },
+  {
+    "brand": "Converse",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Converse_(shoe_company)",
+    "notes": "Subsidiary of Nike, Inc. Boston, Massachusetts, USA"
+  },
+  {
+    "brand": "Desigual",
+    "hq_country": "ES",
+    "hq_country_name": "Spain",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Desigual",
+    "notes": "Barcelona, Spain"
+  },
+  {
+    "brand": "Dickies",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Dickies",
+    "notes": "Fort Worth, Texas, USA. Owned by Kontoor Brands."
+  },
+  {
+    "brand": "Diesel",
+    "hq_country": "IT",
+    "hq_country_name": "Italy",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Diesel_(brand)",
+    "notes": "Breganze, Vicenza, Italy"
+  },
+  {
+    "brand": "Dockers",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Dockers_(brand)",
+    "notes": "Owned by Levi Strauss & Co., San Francisco, USA"
+  },
+  {
+    "brand": "Dr. Martens",
+    "hq_country": "GB",
+    "hq_country_name": "United Kingdom",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Dr._Martens",
+    "notes": "Wollaston, Northamptonshire, UK"
+  },
+  {
+    "brand": "EA7 Emporio Armani",
+    "hq_country": "IT",
+    "hq_country_name": "Italy",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Giorgio_Armani",
+    "notes": "Sport label of Giorgio Armani S.p.A., Milan, Italy"
+  },
+  {
+    "brand": "Ellesse",
+    "hq_country": "IT",
+    "hq_country_name": "Italy",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Ellesse",
+    "notes": "Founded in Perugia, Italy; now owned by Pentland Group (UK) but brand origin is Italian"
+  },
+  {
+    "brand": "Emporio Armani",
+    "hq_country": "IT",
+    "hq_country_name": "Italy",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Giorgio_Armani",
+    "notes": "Label of Giorgio Armani S.p.A., Milan, Italy"
+  },
+  {
+    "brand": "Esprit",
+    "hq_country": "DE",
+    "hq_country_name": "Germany",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Esprit_Holdings",
+    "notes": "European HQ in Ratingen, Germany"
+  },
+  {
+    "brand": "Fila",
+    "hq_country": "KR",
+    "hq_country_name": "South Korea",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Fila_(company)",
+    "notes": "Founded in Italy; acquired by Fila Korea in 2007. HQ now in Seoul, South Korea."
+  },
+  {
+    "brand": "Fred Perry",
+    "hq_country": "GB",
+    "hq_country_name": "United Kingdom",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Fred_Perry",
+    "notes": "London, UK"
+  },
+  {
+    "brand": "G-Star RAW",
+    "hq_country": "NL",
+    "hq_country_name": "Netherlands",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/G-Star_Raw",
+    "notes": "Amsterdam, Netherlands"
+  },
+  {
+    "brand": "Gap",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Gap_Inc.",
+    "notes": "San Francisco, California, USA"
+  },
+  {
+    "brand": "Guess",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Guess_(clothing)",
+    "notes": "Los Angeles, California, USA"
+  },
+  {
+    "brand": "Hackett London",
+    "hq_country": "GB",
+    "hq_country_name": "United Kingdom",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Hackett_London",
+    "notes": "London, UK. Owned by Awwali Holding."
+  },
+  {
+    "brand": "Hilfiger Denim",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Tommy_Hilfiger",
+    "notes": "Denim label of Tommy Hilfiger, owned by PVH Corp., New York, USA"
+  },
+  {
+    "brand": "Hollister Co.",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Hollister_Co.",
+    "notes": "Sub-brand of Abercrombie & Fitch, Columbus, Ohio, USA"
+  },
+  {
+    "brand": "HUGO",
+    "hq_country": "DE",
+    "hq_country_name": "Germany",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Hugo_Boss",
+    "notes": "Contemporary label of Hugo Boss AG, Metzingen, Germany"
+  },
+  {
+    "brand": "Jack & Jones",
+    "hq_country": "DK",
+    "hq_country_name": "Denmark",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Jack_%26_Jones",
+    "notes": "Brand of Bestseller A/S, Brande, Denmark"
+  },
+  {
+    "brand": "Karl Lagerfeld",
+    "hq_country": "NL",
+    "hq_country_name": "Netherlands",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Karl_Lagerfeld_(brand)",
+    "notes": "Karl Lagerfeld International B.V., Amsterdam, Netherlands"
+  },
+  {
+    "brand": "Lacoste",
+    "hq_country": "FR",
+    "hq_country_name": "France",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Lacoste",
+    "notes": "Paris, France"
+  },
+  {
+    "brand": "Lee",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Lee_(brand)",
+    "notes": "Owned by Kontoor Brands, Greensboro, North Carolina, USA"
+  },
+  {
+    "brand": "Levi's",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Levi_Strauss_%26_Co.",
+    "notes": "San Francisco, California, USA"
+  },
+  {
+    "brand": "Mango",
+    "hq_country": "ES",
+    "hq_country_name": "Spain",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Mango_(retailer)",
+    "notes": "Barcelona, Spain"
+  },
+  {
+    "brand": "Marc O'Polo",
+    "hq_country": "DE",
+    "hq_country_name": "Germany",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Marc_O%27Polo",
+    "notes": "Stephanskirchen, Bavaria, Germany"
+  },
+  {
+    "brand": "Michael Kors",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Michael_Kors",
+    "notes": "New York, USA. Part of Capri Holdings."
+  },
+  {
+    "brand": "Napapijri",
+    "hq_country": "IT",
+    "hq_country_name": "Italy",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Napapijri",
+    "notes": "Aosta Valley, Italy. Owned by VF Corporation (US) but brand HQ is in Italy."
+  },
+  {
+    "brand": "New Balance",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/New_Balance",
+    "notes": "Boston, Massachusetts, USA"
+  },
+  {
+    "brand": "New Era",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/New_Era_Cap",
+    "notes": "Buffalo, New York, USA"
+  },
+  {
+    "brand": "Nike",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+    "notes": "Beaverton, Oregon, USA"
+  },
+  {
+    "brand": "Only",
+    "hq_country": "DK",
+    "hq_country_name": "Denmark",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Only_(clothing)",
+    "notes": "Brand of Bestseller A/S, Brande, Denmark"
+  },
+  {
+    "brand": "Pepe Jeans",
+    "hq_country": "ES",
+    "hq_country_name": "Spain",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Pepe_Jeans",
+    "notes": "Madrid, Spain. Originally founded in London; HQ moved to Madrid."
+  },
+  {
+    "brand": "Polo Ralph Lauren",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Ralph_Lauren_Corporation",
+    "notes": "New York, USA"
+  },
+  {
+    "brand": "PULL&BEAR",
+    "hq_country": "ES",
+    "hq_country_name": "Spain",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Pull%26Bear",
+    "notes": "Brand of Inditex, La Coruña, Spain"
+  },
+  {
+    "brand": "Puma",
+    "hq_country": "DE",
+    "hq_country_name": "Germany",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Puma_(brand)",
+    "notes": "Herzogenaurach, Germany"
+  },
+  {
+    "brand": "Reebok",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Reebok",
+    "notes": "Boston, Massachusetts, USA. Owned by Authentic Brands Group."
+  },
+  {
+    "brand": "Replay",
+    "hq_country": "IT",
+    "hq_country_name": "Italy",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Replay_(brand)",
+    "notes": "Asolo, Treviso, Italy. Brand of Fashion Box S.p.A."
+  },
+  {
+    "brand": "Salomon",
+    "hq_country": "FR",
+    "hq_country_name": "France",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Salomon_Group",
+    "notes": "Annecy, France. Owned by Amer Sports."
+  },
+  {
+    "brand": "Scotch & Soda",
+    "hq_country": "NL",
+    "hq_country_name": "Netherlands",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Scotch_%26_Soda_(clothing)",
+    "notes": "Amsterdam, Netherlands"
+  },
+  {
+    "brand": "Skechers",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Skechers",
+    "notes": "Manhattan Beach, California, USA"
+  },
+  {
+    "brand": "Stradivarius",
+    "hq_country": "ES",
+    "hq_country_name": "Spain",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Stradivarius_(clothing)",
+    "notes": "Brand of Inditex, La Coruña, Spain"
+  },
+  {
+    "brand": "The North Face",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/The_North_Face",
+    "notes": "Denver, Colorado, USA. Owned by VF Corporation."
+  },
+  {
+    "brand": "Timberland",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Timberland_(company)",
+    "notes": "Stratham, New Hampshire, USA. Owned by VF Corporation."
+  },
+  {
+    "brand": "Timberland PRO",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Timberland_(company)",
+    "notes": "Workwear label of Timberland, owned by VF Corporation, USA"
+  },
+  {
+    "brand": "Tommy Hilfiger",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Tommy_Hilfiger",
+    "notes": "New York, USA. Owned by PVH Corp."
+  },
+  {
+    "brand": "Tommy Jeans",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Tommy_Hilfiger",
+    "notes": "Denim label of Tommy Hilfiger / PVH Corp., New York, USA"
+  },
+  {
+    "brand": "Under Armour",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Under_Armour",
+    "notes": "Baltimore, Maryland, USA"
+  },
+  {
+    "brand": "Vans",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Vans_(company)",
+    "notes": "Costa Mesa, California, USA. Owned by VF Corporation."
+  },
+  {
+    "brand": "Vero Moda",
+    "hq_country": "DK",
+    "hq_country_name": "Denmark",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Vero_Moda",
+    "notes": "Brand of Bestseller A/S, Brande, Denmark"
+  },
+  {
+    "brand": "Versace Jeans Couture",
+    "hq_country": "IT",
+    "hq_country_name": "Italy",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Versace",
+    "notes": "Denim label of Versace, Milan, Italy. Owned by Capri Holdings (US)."
+  },
+  {
+    "brand": "Vila",
+    "hq_country": "DK",
+    "hq_country_name": "Denmark",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Vila_(clothing)",
+    "notes": "Brand of Bestseller A/S, Brande, Denmark"
+  },
+  {
+    "brand": "Wrangler",
+    "hq_country": "US",
+    "hq_country_name": "United States",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Wrangler_(jeans)",
+    "notes": "Owned by Kontoor Brands, Greensboro, North Carolina, USA"
+  },
+  {
+    "brand": "Zalando Essentials",
+    "hq_country": "DE",
+    "hq_country_name": "Germany",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Zalando",
+    "notes": "Private label of Zalando SE, Berlin, Germany"
+  },
+  {
+    "brand": "Zara",
+    "hq_country": "ES",
+    "hq_country_name": "Spain",
+    "eu_member": true,
+    "source": "https://en.wikipedia.org/wiki/Zara_(retailer)",
+    "notes": "Brand of Inditex, La Coruña, Spain"
+  }
+]
