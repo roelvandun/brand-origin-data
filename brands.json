@@ -32,6 +32,14 @@
     "notes": "Premium label of Hugo Boss AG, Metzingen, Germany"
   },
   {
+    "brand": "Call It Spring",
+    "hq_country": "CA",
+    "hq_country_name": "Canada",
+    "eu_member": false,
+    "source": "https://en.wikipedia.org/wiki/Aldo_(brand)",
+    "notes": "Owned by the Aldo group. Montreal, Canada"
+  },
+  {
     "brand": "Calvin Klein",
     "hq_country": "US",
     "hq_country_name": "United States",
